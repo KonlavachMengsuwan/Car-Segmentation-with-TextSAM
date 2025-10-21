@@ -17,7 +17,7 @@ The goal is to understand how TextSAM responds to changes in **Padding** and **B
 - Urban area with parked cars and mixed illumination (shadowed and bright regions)
 
 **Deep Learning Tool:**  
-- ArcGIS Pro → *Classify Pixels Using Deep Learning*  
+- ArcGIS Pro → *Detect Objects Using Deep Learning*  
 - Model: **TextSAM.dlpk**  
 - Text Prompt: `"car"`
 
