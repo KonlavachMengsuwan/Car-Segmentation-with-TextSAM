@@ -97,5 +97,5 @@ However, TextSAM demonstrates strong generalization for larger vehicles and clea
 
 ---
 
-📘 **Author:** Konlavach (Duke) Mengsuwan  
-🔍 **Research focus:** AI × Remote Sensing × UAV Analysis  
+📘 **Author:** Konlavach Mengsuwan  
+🔍 **Research focus:** GEOAI: AI × Remote Sensing × UAV Analysis  
