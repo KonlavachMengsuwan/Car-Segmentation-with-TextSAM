@@ -91,7 +91,17 @@ However, TextSAM demonstrates strong generalization for larger vehicles and clea
 ---
 
 ### Example visualization
-*(Add your comparison image here — e.g., Padding comparison and Box Threshold comparison)*
+## Padding: 64
+<img width="1999" height="1121" alt="image" src="https://github.com/user-attachments/assets/5511c394-946e-4cd9-b72a-0bb616d9ca01" />
+
+## Padding: 128
+<img width="1995" height="1119" alt="image" src="https://github.com/user-attachments/assets/9dcdd9e0-04d2-4158-b318-af47664ccc7f" />
+
+## Padding: 256
+<img width="1997" height="1115" alt="image" src="https://github.com/user-attachments/assets/d57c10f4-f491-44c4-a6aa-f7dff0a9e995" />
+
+## Padding: 320
+<img width="1988" height="1121" alt="image" src="https://github.com/user-attachments/assets/9e840d46-2e53-40f6-8a2e-3bfc1a150049" />
 
 ---
 
